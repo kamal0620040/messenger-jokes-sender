@@ -22,6 +22,10 @@ Install dependencies using pipenv or manually using [requirement.txt](https://gi
 ```bash
   pipenv shell
 ```
+```bash
+  python send.py
+```
+
 ## Note
 You should have Firefox gecodriver installed on your device.
 
